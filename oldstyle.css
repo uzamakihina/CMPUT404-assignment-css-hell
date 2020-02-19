@@ -1,0 +1,33 @@
+
+
+BODY { color: Black;
+    background: url(https://3.bp.blogspot.com/-zAowRcsjDFI/Tg_E0aFkYFI/AAAAAAAANNQ/5oxG7JdBeTg/s1600/oldpaper-backgroundfairy.jpg);
+    margin-right: 10%;
+    margin-left: 10%;
+    font-family: "Times New Roman", serif;
+    text-align: justify }
+
+P {
+    font-size: 16pt;
+    text-indent: 4%;
+    font-style: normal;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(65, 59, 37);
+}
+
+P.noindent {text-indent: 0% }
+
+P.poem {text-indent: 0%;
+     margin-left: 10%;
+     font-size: 14pt;
+}
+
+P.letter {text-indent: 0%;
+    font-size: 14pt;
+       margin-left: 10% ;
+       margin-right: 10% }
+
+P.finis { text-align: center ;
+       text-indent: 0% ;
+       margin-left: 0% ;
+       margin-right: 0% }
