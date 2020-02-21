@@ -1,17 +1,24 @@
 
+PRE{
+    font-size: 14pt;
+}
 
 BODY { color: Black;
     background: url(https://3.bp.blogspot.com/-zAowRcsjDFI/Tg_E0aFkYFI/AAAAAAAANNQ/5oxG7JdBeTg/s1600/oldpaper-backgroundfairy.jpg);
     margin-right: 5%;
     margin-left: 5%;
     font-family: "Times New Roman", serif;
-    text-align: justify }
+    text-align: justify;
+    
+     }
+    
 
 P {
     font-size: 16pt;
     text-indent: 4%;
-    font-style: normal;
+    
     font-family: "Lucida Sans Unicode", Helvetica, sans-serif;
+    font-style: oblique;
     color: rgb(0, 0, 0);
 }
 
@@ -31,3 +38,13 @@ P.finis { text-align: center ;
        text-indent: 0% ;
        margin-left: 0% ;
        margin-right: 0% }
+
+
+h2 {font-size: 175%;}
+h3 {font-size: 150%;}
+h4 {font-size: 120%;}
+h5 {font-size: 110%;}
+
+a:link {color:blue; text-decoration:none}
+a:visited {color:blue; text-decoration:none}
+a:hover {color:red}
