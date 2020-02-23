@@ -1,4 +1,7 @@
-Assignment: CSS Hell
+
+Done by Joe Xu
+
+Assignment: CSS Hell 
 ====================
 
 You will skin 3 project gutenberg stories with custom CSS.
@@ -21,7 +24,9 @@ repository and (C) 2013 Abram Hindle visibile in the text.
 
 Code is licensed under the Apache 2.0 license.
 
+
 Guttenberg changes:
+=================
 
 changed the background to a old decaying paper texture
 changes the font of all paragraph text to oblique to make it look ancient.
