@@ -1,5 +1,5 @@
 
-Done by Joe Xu
+Joe Xu
 
 Assignment: CSS Hell 
 ====================
@@ -25,7 +25,7 @@ repository and (C) 2013 Abram Hindle visibile in the text.
 Code is licensed under the Apache 2.0 license.
 
 
-Guttenberg changes:
+Guttenberg changes done by css:
 =================
 
 changed the background to a old decaying paper texture
