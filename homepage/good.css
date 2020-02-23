@@ -4,6 +4,7 @@
      color: black;
      padding: 0pt;
      max-width: 1000pt;
+     min-width: 1000pt;
      
      
     
@@ -26,7 +27,7 @@ img{
    
 
     margin-left:10%;
-    max-width: 1320pt;
+    
     margin-right: 10%;
     color: white;
     
@@ -40,9 +41,10 @@ img{
     
 }
 #header #content{
-    margin-left:15%;
+    margin-left:5%;
     text-shadow: 4px 4px 8px #000000;
     text-decoration: none;
+    
 }
 
 #name{
@@ -50,10 +52,13 @@ img{
 }
 
 #my_pic{
+    float: right;
     position: relative;
+   
     border-radius: 50%;
-    margin-left: 50%;
-    bottom: 75pt;
+    top: 25pt;
+
+    
     
 }
 #react{
@@ -78,14 +83,24 @@ a, a:link, a:visited{
     overflow: hidden;
     margin-left: 10%;
     margin-right: 10%;
-    max-width: 1320pt;
-    font-size: 12pt;
+    
+   
     color: rgb(202, 202, 202);
+    padding: 10pt;
+    font-size: 14pt;
+    text-align: center;
+    
   
     box-shadow: 0px 0px 15px 0px rgba(0,0,0,0.57);
 
-
    
+}
+
+#navigation #href{
+  
+   padding-left: 10%;
+   padding-right: 10%;
+  
 }
 
 #Side_menue{
@@ -99,7 +114,7 @@ a, a:link, a:visited{
     
 
     padding: 15pt;
-    background-color: rgb(184, 184, 184);
+    background-color: rgb(209, 209, 209);
   
     
    
@@ -111,7 +126,7 @@ a, a:link, a:visited{
 #about_me{
     float:left;
     position: relative;
-    font-size: 15pt;
+    font-size: 14pt;
     margin-left: 20pt;
     max-width: 400pt;
     
@@ -123,7 +138,7 @@ a, a:link, a:visited{
 
 
 #info{
-    max-width: 1320pt;
+   
     overflow: hidden;
     background-color: white;
     margin-left: 10%;
@@ -150,7 +165,11 @@ a:hover{
     
     width: 100pt;
     height: auto;
-    
-   
+}
+
+#UAlogo{
+    width: 100pt;
+    height: auto;
+    float:right;
 }
 

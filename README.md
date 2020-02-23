@@ -21,4 +21,14 @@ repository and (C) 2013 Abram Hindle visibile in the text.
 
 Code is licensed under the Apache 2.0 license.
 
+Guttenberg changes:
+
+changed the background to a old decaying paper texture
+changes the font of all paragraph text to oblique to make it look ancient.
+changed the font family of paragraphs to Times New Roman, serif.
+made images smaller because they were too big
+Made all text font sizes 14pt.
+Changed header style to be italic and changed their text size.
+
+
 
